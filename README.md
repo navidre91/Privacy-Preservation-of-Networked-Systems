@@ -1,2 +1,5 @@
-# Privacy-Preservation-of-Networked-Systems
-Privacy Preservation of Networked Systems
+# Privacy preservation in continuous-time average consensus algorithm via deterministic additive perturbation signals Privacy Preservation of Networked Systems
+
+This paper considers the problem of privacy preservation against passive internal and external malicious agents in the continuous-time Laplacian average consensus algorithm over strongly connected and weight-balanced digraphs. For this problem, we evaluate the effectiveness of the use of additive perturbation signals as a privacy preservation measure against malicious agents that know the graph topology. Our results include (a) identifying the necessary and sufficient conditions on admissible additive perturbation signals that do not perturb the convergence point of the algorithm from the average of initial values of the agents; (b) obtaining the necessary and sufficient condition on the knowledge set of a malicious agent that enables it to identify the initial value of another agent; (c) designing observers that internal and external malicious agents can use to identify the initial conditions of another agent when their knowledge set on that agent enables them to do so. We demonstrate our results through a numerical example.
+
+https://arxiv.org/pdf/1904.05286.pdf
